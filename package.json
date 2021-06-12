@@ -1,5 +1,5 @@
 {
-  "name": "serverless-esbuild",
+  "name": "@jcandrade/serverless-esbuild",
   "description": "Serverless plugin for zero-config JavaScript and TypeScript code bundling using extremely fast esbuild",
   "version": "1.12.2",
   "license": "MIT",
